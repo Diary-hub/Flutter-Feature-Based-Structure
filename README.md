@@ -16,3 +16,4 @@
  - <3
 
 # NOTE: Some files and exception throws are in the Kurdish Language
+# Another NOTE: This is GetX Template 
