@@ -9,8 +9,9 @@
    - git clone %repo_url%
  - Now cut all files inside the repo folder to your project folder and replace all, also move the .git folder
  - Run the .BAT file and wait
+ - In the .gitignore file Edit the .yaml file to your project's .yaml file
  - Open the folder inside your editing IDE
- - Finally get all dependencys
+ - Finally get all dependencies
    - flutter pub get
  - <3
 
